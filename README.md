@@ -1,2 +1,2 @@
 # BancoQuestor
-Solução criadao com .Net6 utilizando banco de dados Postgres.
+Solução criadao com .Net6 foi utilizado Banco Postgres.
